@@ -1,0 +1,15 @@
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.dll
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.xml
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojAssemblyReference.cache
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\Mikoo\source\repos\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
